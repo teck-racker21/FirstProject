@@ -2,7 +2,7 @@
 void main()
 {
 
-    int a=10,b=20;
+    int a=100,b=20;
 
     printf("%d",addF(10,34));
 }
