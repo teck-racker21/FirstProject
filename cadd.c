@@ -4,7 +4,7 @@ void main()
 
     int a=10,b=20;
 
-    printf("%d",addF(a,b));
+    printf("%d",addF(10,34));
 }
 addF(int a, int b)
 {
