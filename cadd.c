@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-    int a=10,b=34;
+    int a=10,b=3;
     printf("%d",addF(10,34));
 }
 addF(int a, int b)
