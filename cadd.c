@@ -1,8 +1,10 @@
 #include<stdio.h>
 void main()
 {
-    int a=10,b=3;
-    printf("%d",addF(10,34));
+
+    int a=10,b=20;
+
+    printf("%d",addF(a,b));
 }
 addF(int a, int b)
 {
